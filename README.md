@@ -131,5 +131,7 @@ Nous allons utilisé [Json-server](https://github.com/typicode/json-server) pour
 D'autres solutions sont possible 
 
 [Faker.js](https://github.com/marak/Faker.js/)
+
 [Faker.js - implemené](https://scotch.io/tutorials/generate-fake-data-for-your-javascript-applications-using-faker)
+
 [chance.js](http://chancejs.com/)
