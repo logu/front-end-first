@@ -6,7 +6,6 @@ Js-Star : Du prototype à la production - Prototypage rapide
 
 Front end first philosophie sans aucun soucis
 ------------------------------------------------------
-[TOC]
 
 
 
