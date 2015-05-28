@@ -8,15 +8,12 @@ Front end first philosophie sans aucun soucis
 ------------------------------------------------------
 
 
-
-----------
-
-Avant de rentrer dans le vif du sujet essayons tout d'abord de voir le context vers le quel le développement d'application tend vers.
+Avant de rentrer dans le vif du sujet essayons tout d'abord de voir le context vers le quel le développement d'application tend.
 
 
 ----------
 
-### La conception centrée utilisateur ###
+### Le context : la conception centrée utilisateur ###
 
 La conception centrée utilisateur consiste à considérer les utilisateurs et leurs besoins tout au long du processus de développement d'une application. Les utilisateurs finaux sont les mieux placés pour évaluer et influencer le développement d'un produit. Si le produit final correspond à leurs besoins, envies et caractéristiques, il aura toutes les chances d'être adopté.
 Vous vous dites surement mais pourquoi il nous parle de ça ? C'est très simple, c'est ce que l'on fait au quotidien chez nos clients à UX republic. 
@@ -46,7 +43,7 @@ Le 'front end first' donne la possibilité du découplage entre l'application et
 
 ### Un exemple d'implémentation ###
 
-Cette repository a été mis en place pour illustrer une façon de développer en utilisant la méthode 'front end first'. Nous allons nous interroger sur la meilleure façon de développer notre front sans dépendre des API tout en impactant un minimum le code cible. Une stratégie pour simuler le backend et avoir des données bouchonnées.
+Cette repository a été créée pour illustrer une façon de développer en utilisant la méthode 'front end first'. Nous allons nous interroger sur la meilleure façon de développer notre front sans dépendre des API tout en impactant un minimum le code cible. Une stratégie pour simuler le backend et avoir des données bouchonnées.
 
 Pour suivre la démo je vous invite à cloner le projet :
 
