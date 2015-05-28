@@ -1,0 +1,991 @@
+[{
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cokwr</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>0</title><content type='text'>name: Abricot, img: http://www.fruits-legumes.org/fruits-legumes-images/abricot.jpg, price: 3,85, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cokwr'/><gsx:id>0</gsx:id><gsx:name>Abricot</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/abricot.jpg</gsx:img><gsx:price>3,85</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "0",
+  "title": "0",
+  "_links": [],
+  "name": "Abricot",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/abricot.jpg",
+  "price": "3,85",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cpzh4</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>1</title><content type='text'>name: Ail, img: http://www.fruits-legumes.org/fruits-legumes-images/ail.jpg, price: 0,58, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cpzh4'/><gsx:id>1</gsx:id><gsx:name>Ail</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/ail.jpg</gsx:img><gsx:price>0,58</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "1",
+  "title": "1",
+  "_links": [],
+  "name": "Ail",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/ail.jpg",
+  "price": "0,58",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cre1l</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>2</title><content type='text'>name: Airelle, img: http://www.fruits-legumes.org/fruits-legumes-images/airelle.jpg, price: 8,02, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cre1l'/><gsx:id>2</gsx:id><gsx:name>Airelle</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/airelle.jpg</gsx:img><gsx:price>8,02</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "2",
+  "title": "2",
+  "_links": [],
+  "name": "Airelle",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/airelle.jpg",
+  "price": "8,02",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/chk2m</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>3</title><content type='text'>name: Amande, img: http://www.fruits-legumes.org/fruits-legumes-images/amande.jpg, price: 5,52, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/chk2m'/><gsx:id>3</gsx:id><gsx:name>Amande</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/amande.jpg</gsx:img><gsx:price>5,52</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "3",
+  "title": "3",
+  "_links": [],
+  "name": "Amande",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/amande.jpg",
+  "price": "5,52",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ciyn3</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>4</title><content type='text'>name: Ananas, img: http://www.fruits-legumes.org/fruits-legumes-images/ananas.jpg, price: 5,38, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ciyn3'/><gsx:id>4</gsx:id><gsx:name>Ananas</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/ananas.jpg</gsx:img><gsx:price>5,38</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "4",
+  "title": "4",
+  "_links": [],
+  "name": "Ananas",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/ananas.jpg",
+  "price": "5,38",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ckd7g</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>5</title><content type='text'>name: Artichaut, img: http://www.fruits-legumes.org/fruits-legumes-images/artichaut.jpg, price: 8,48, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ckd7g'/><gsx:id>5</gsx:id><gsx:name>Artichaut</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/artichaut.jpg</gsx:img><gsx:price>8,48</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "5",
+  "title": "5",
+  "_links": [],
+  "name": "Artichaut",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/artichaut.jpg",
+  "price": "8,48",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/clrrx</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>6</title><content type='text'>name: Asperge blanche, img: http://www.fruits-legumes.org/fruits-legumes-images/asperge-blanche.jpg, price: 9,54, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/clrrx'/><gsx:id>6</gsx:id><gsx:name>Asperge blanche</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/asperge-blanche.jpg</gsx:img><gsx:price>9,54</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "6",
+  "title": "6",
+  "_links": [],
+  "name": "Asperge blanche",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/asperge-blanche.jpg",
+  "price": "9,54",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cyevm</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>7</title><content type='text'>name: Asperge verte, img: http://www.fruits-legumes.org/fruits-legumes-images/asperge-verte.jpg, price: 7,76, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cyevm'/><gsx:id>7</gsx:id><gsx:name>Asperge verte</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/asperge-verte.jpg</gsx:img><gsx:price>7,76</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "7",
+  "title": "7",
+  "_links": [],
+  "name": "Asperge verte",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/asperge-verte.jpg",
+  "price": "7,76",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cztg3</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>8</title><content type='text'>name: Aubergine, img: http://www.fruits-legumes.org/fruits-legumes-images/aubergine.jpg, price: 6,56, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cztg3'/><gsx:id>8</gsx:id><gsx:name>Aubergine</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/aubergine.jpg</gsx:img><gsx:price>6,56</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "8",
+  "title": "8",
+  "_links": [],
+  "name": "Aubergine",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/aubergine.jpg",
+  "price": "6,56",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d180g</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>9</title><content type='text'>name: Avocat, img: http://www.fruits-legumes.org/fruits-legumes-images/avocat.jpg, price: 8,12, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d180g'/><gsx:id>9</gsx:id><gsx:name>Avocat</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/avocat.jpg</gsx:img><gsx:price>8,12</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "9",
+  "title": "9",
+  "_links": [],
+  "name": "Avocat",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/avocat.jpg",
+  "price": "8,12",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d2mkx</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>10</title><content type='text'>name: Banane, img: http://www.fruits-legumes.org/fruits-legumes-images/banane.jpg, price: 2,15, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d2mkx'/><gsx:id>10</gsx:id><gsx:name>Banane</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/banane.jpg</gsx:img><gsx:price>2,15</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "10",
+  "title": "10",
+  "_links": [],
+  "name": "Banane",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/banane.jpg",
+  "price": "2,15",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cssly</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>11</title><content type='text'>name: Bette, img: http://www.fruits-legumes.org/fruits-legumes-images/bette.jpg, price: 6,53, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cssly'/><gsx:id>11</gsx:id><gsx:name>Bette</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/bette.jpg</gsx:img><gsx:price>6,53</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "11",
+  "title": "11",
+  "_links": [],
+  "name": "Bette",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/bette.jpg",
+  "price": "6,53",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cu76f</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>12</title><content type='text'>name: Betterave rouge, img: http://www.fruits-legumes.org/fruits-legumes-images/betterave-rouge.jpg, price: 9,45, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cu76f'/><gsx:id>12</gsx:id><gsx:name>Betterave rouge</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/betterave-rouge.jpg</gsx:img><gsx:price>9,45</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "12",
+  "title": "12",
+  "_links": [],
+  "name": "Betterave rouge",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/betterave-rouge.jpg",
+  "price": "9,45",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cvlqs</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>13</title><content type='text'>name: Brocoli, img: http://www.fruits-legumes.org/fruits-legumes-images/brocoli.jpg, price: 8,96, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cvlqs'/><gsx:id>13</gsx:id><gsx:name>Brocoli</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/brocoli.jpg</gsx:img><gsx:price>8,96</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "13",
+  "title": "13",
+  "_links": [],
+  "name": "Brocoli",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/brocoli.jpg",
+  "price": "8,96",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cx0b9</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>14</title><content type='text'>name: Carotte, img: http://www.fruits-legumes.org/fruits-legumes-images/carotte.jpg, price: 10,18, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/cx0b9'/><gsx:id>14</gsx:id><gsx:name>Carotte</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/carotte.jpg</gsx:img><gsx:price>10,18</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "14",
+  "title": "14",
+  "_links": [],
+  "name": "Carotte",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/carotte.jpg",
+  "price": "10,18",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d9ney</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>15</title><content type='text'>name: Cassis, img: http://www.fruits-legumes.org/fruits-legumes-images/cassis.jpg, price: 7,34, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d9ney'/><gsx:id>15</gsx:id><gsx:name>Cassis</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/cassis.jpg</gsx:img><gsx:price>7,34</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "15",
+  "title": "15",
+  "_links": [],
+  "name": "Cassis",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/cassis.jpg",
+  "price": "7,34",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/db1zf</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>16</title><content type='text'>name: Catalonia, img: http://www.fruits-legumes.org/fruits-legumes-images/catalonia.jpg, price: 9,84, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/db1zf'/><gsx:id>16</gsx:id><gsx:name>Catalonia</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/catalonia.jpg</gsx:img><gsx:price>9,84</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "16",
+  "title": "16",
+  "_links": [],
+  "name": "Catalonia",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/catalonia.jpg",
+  "price": "9,84",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dcgjs</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>17</title><content type='text'>name: Céleri, img: http://www.fruits-legumes.org/fruits-legumes-images/celeri.jpg, price: 0,93, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dcgjs'/><gsx:id>17</gsx:id><gsx:name>Céleri</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/celeri.jpg</gsx:img><gsx:price>0,93</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "17",
+  "title": "17",
+  "_links": [],
+  "name": "Céleri",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/celeri.jpg",
+  "price": "0,93",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ddv49</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>18</title><content type='text'>name: Céleri branche, img: http://www.fruits-legumes.org/fruits-legumes-images/celeri-branche.jpg, price: 3,37, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ddv49'/><gsx:id>18</gsx:id><gsx:name>Céleri branche</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/celeri-branche.jpg</gsx:img><gsx:price>3,37</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "18",
+  "title": "18",
+  "_links": [],
+  "name": "Céleri branche",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/celeri-branche.jpg",
+  "price": "3,37",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d415a</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>19</title><content type='text'>name: Céleri rave, img: http://www.fruits-legumes.org/fruits-legumes-images/celeri-rave.jpg, price: 9,19, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d415a'/><gsx:id>19</gsx:id><gsx:name>Céleri rave</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/celeri-rave.jpg</gsx:img><gsx:price>9,19</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "19",
+  "title": "19",
+  "_links": [],
+  "name": "Céleri rave",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/celeri-rave.jpg",
+  "price": "9,19",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d5fpr</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>20</title><content type='text'>name: Cerise, img: http://www.fruits-legumes.org/fruits-legumes-images/cerise.jpg, price: 7,63, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d5fpr'/><gsx:id>20</gsx:id><gsx:name>Cerise</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/cerise.jpg</gsx:img><gsx:price>7,63</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "20",
+  "title": "20",
+  "_links": [],
+  "name": "Cerise",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/cerise.jpg",
+  "price": "7,63",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d6ua4</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>21</title><content type='text'>name: Chou blanc, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-blanc.jpg, price: 3,81, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d6ua4'/><gsx:id>21</gsx:id><gsx:name>Chou blanc</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-blanc.jpg</gsx:img><gsx:price>3,81</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "21",
+  "title": "21",
+  "_links": [],
+  "name": "Chou blanc",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-blanc.jpg",
+  "price": "3,81",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d88ul</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>22</title><content type='text'>name: Chou de Bruxelles, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-de-bruxelles.jpg, price: 8,84, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/d88ul'/><gsx:id>22</gsx:id><gsx:name>Chou de Bruxelles</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-de-bruxelles.jpg</gsx:img><gsx:price>8,84</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "22",
+  "title": "22",
+  "_links": [],
+  "name": "Chou de Bruxelles",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-de-bruxelles.jpg",
+  "price": "8,84",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dkvya</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>23</title><content type='text'>name: Chou frisé, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-frise.jpg, price: 3,57, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dkvya'/><gsx:id>23</gsx:id><gsx:name>Chou frisé</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-frise.jpg</gsx:img><gsx:price>3,57</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "23",
+  "title": "23",
+  "_links": [],
+  "name": "Chou frisé",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-frise.jpg",
+  "price": "3,57",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dmair</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>24</title><content type='text'>name: Chou Romanesco, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-romanesco.jpg, price: 1,25, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dmair'/><gsx:id>24</gsx:id><gsx:name>Chou Romanesco</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-romanesco.jpg</gsx:img><gsx:price>1,25</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "24",
+  "title": "24",
+  "_links": [],
+  "name": "Chou Romanesco",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-romanesco.jpg",
+  "price": "1,25",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dnp34</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>25</title><content type='text'>name: Chou rouge, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-rouge.jpg, price: 9,15, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dnp34'/><gsx:id>25</gsx:id><gsx:name>Chou rouge</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-rouge.jpg</gsx:img><gsx:price>9,15</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "25",
+  "title": "25",
+  "_links": [],
+  "name": "Chou rouge",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-rouge.jpg",
+  "price": "9,15",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dp3nl</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>26</title><content type='text'>name: Chou-chinois, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-chinois.jpg, price: 6,11, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dp3nl'/><gsx:id>26</gsx:id><gsx:name>Chou-chinois</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-chinois.jpg</gsx:img><gsx:price>6,11</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "26",
+  "title": "26",
+  "_links": [],
+  "name": "Chou-chinois",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-chinois.jpg",
+  "price": "6,11",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/df9om</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>27</title><content type='text'>name: Chou-fleur, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-fleur.jpg, price: 4,07, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/df9om'/><gsx:id>27</gsx:id><gsx:name>Chou-fleur</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-fleur.jpg</gsx:img><gsx:price>4,07</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "27",
+  "title": "27",
+  "_links": [],
+  "name": "Chou-fleur",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-fleur.jpg",
+  "price": "4,07",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dgo93</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>28</title><content type='text'>name: Chou-rave, img: http://www.fruits-legumes.org/fruits-legumes-images/chou-rave.jpg, price: 1,84, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dgo93'/><gsx:id>28</gsx:id><gsx:name>Chou-rave</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/chou-rave.jpg</gsx:img><gsx:price>1,84</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "28",
+  "title": "28",
+  "_links": [],
+  "name": "Chou-rave",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/chou-rave.jpg",
+  "price": "1,84",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/di2tg</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>29</title><content type='text'>name: Cima di Rapa, img: http://www.fruits-legumes.org/fruits-legumes-images/cima-di-rapa.jpg, price: 2,45, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/di2tg'/><gsx:id>29</gsx:id><gsx:name>Cima di Rapa</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/cima-di-rapa.jpg</gsx:img><gsx:price>2,45</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "29",
+  "title": "29",
+  "_links": [],
+  "name": "Cima di Rapa",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/cima-di-rapa.jpg",
+  "price": "2,45",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/djhdx</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>30</title><content type='text'>name: Citron, img: http://www.fruits-legumes.org/fruits-legumes-images/citron.jpg, price: 3,29, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/djhdx'/><gsx:id>30</gsx:id><gsx:name>Citron</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/citron.jpg</gsx:img><gsx:price>3,29</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "30",
+  "title": "30",
+  "_links": [],
+  "name": "Citron",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/citron.jpg",
+  "price": "3,29",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dw4je</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>31</title><content type='text'>name: Citrouille, img: http://www.fruits-legumes.org/fruits-legumes-images/citrouille.jpg, price: 9,06, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dw4je'/><gsx:id>31</gsx:id><gsx:name>Citrouille</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/citrouille.jpg</gsx:img><gsx:price>9,06</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "31",
+  "title": "31",
+  "_links": [],
+  "name": "Citrouille",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/citrouille.jpg",
+  "price": "9,06",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dxj3v</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>32</title><content type='text'>name: Clémentine, img: http://www.fruits-legumes.org/fruits-legumes-images/clementine.jpg, price: 2,64, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dxj3v'/><gsx:id>32</gsx:id><gsx:name>Clémentine</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/clementine.jpg</gsx:img><gsx:price>2,64</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "32",
+  "title": "32",
+  "_links": [],
+  "name": "Clémentine",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/clementine.jpg",
+  "price": "2,64",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dyxo8</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>33</title><content type='text'>name: Coing, img: http://www.fruits-legumes.org/fruits-legumes-images/coing.jpg, price: 9,68, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dyxo8'/><gsx:id>33</gsx:id><gsx:name>Coing</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/coing.jpg</gsx:img><gsx:price>9,68</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "33",
+  "title": "33",
+  "_links": [],
+  "name": "Coing",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/coing.jpg",
+  "price": "9,68",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e0c8p</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>34</title><content type='text'>name: Concombre, img: http://www.fruits-legumes.org/fruits-legumes-images/concombre.jpg, price: 8,18, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e0c8p'/><gsx:id>34</gsx:id><gsx:name>Concombre</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/concombre.jpg</gsx:img><gsx:price>8,18</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "34",
+  "title": "34",
+  "_links": [],
+  "name": "Concombre",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/concombre.jpg",
+  "price": "8,18",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dqi9q</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>35</title><content type='text'>name: Courge, img: http://www.fruits-legumes.org/fruits-legumes-images/courge.jpg, price: 1,46, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dqi9q'/><gsx:id>35</gsx:id><gsx:name>Courge</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/courge.jpg</gsx:img><gsx:price>1,46</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "35",
+  "title": "35",
+  "_links": [],
+  "name": "Courge",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/courge.jpg",
+  "price": "1,46",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/drwu7</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>36</title><content type='text'>name: Courgette, img: http://www.fruits-legumes.org/fruits-legumes-images/courgette.jpg, price: 4,72, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/drwu7'/><gsx:id>36</gsx:id><gsx:name>Courgette</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/courgette.jpg</gsx:img><gsx:price>4,72</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "36",
+  "title": "36",
+  "_links": [],
+  "name": "Courgette",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/courgette.jpg",
+  "price": "4,72",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dtbek</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>37</title><content type='text'>name: Datte, img: http://www.fruits-legumes.org/fruits-legumes-images/datte.jpg, price: 5,22, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dtbek'/><gsx:id>37</gsx:id><gsx:name>Datte</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/datte.jpg</gsx:img><gsx:price>5,22</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "37",
+  "title": "37",
+  "_links": [],
+  "name": "Datte",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/datte.jpg",
+  "price": "5,22",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dupz1</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>38</title><content type='text'>name: Endive, img: http://www.fruits-legumes.org/fruits-legumes-images/endive.jpg, price: 5,07, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/dupz1'/><gsx:id>38</gsx:id><gsx:name>Endive</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/endive.jpg</gsx:img><gsx:price>5,07</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "38",
+  "title": "38",
+  "_links": [],
+  "name": "Endive",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/endive.jpg",
+  "price": "5,07",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e7d2q</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>39</title><content type='text'>name: Epinard, img: http://www.fruits-legumes.org/fruits-legumes-images/epinard.jpg, price: 5,35, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e7d2q'/><gsx:id>39</gsx:id><gsx:name>Epinard</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/epinard.jpg</gsx:img><gsx:price>5,35</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "39",
+  "title": "39",
+  "_links": [],
+  "name": "Epinard",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/epinard.jpg",
+  "price": "5,35",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e8rn7</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>40</title><content type='text'>name: Fenouil, img: http://www.fruits-legumes.org/fruits-legumes-images/fenouil.jpg, price: 0,76, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e8rn7'/><gsx:id>40</gsx:id><gsx:name>Fenouil</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/fenouil.jpg</gsx:img><gsx:price>0,76</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "40",
+  "title": "40",
+  "_links": [],
+  "name": "Fenouil",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/fenouil.jpg",
+  "price": "0,76",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ea67k</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>41</title><content type='text'>name: Figue fraîche, img: http://www.fruits-legumes.org/fruits-legumes-images/figue-fraiche.jpg, price: 9,93, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ea67k'/><gsx:id>41</gsx:id><gsx:name>Figue fraîche</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/figue-fraiche.jpg</gsx:img><gsx:price>9,93</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "41",
+  "title": "41",
+  "_links": [],
+  "name": "Figue fraîche",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/figue-fraiche.jpg",
+  "price": "9,93",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ebks1</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>42</title><content type='text'>name: Fraise, img: http://www.fruits-legumes.org/fruits-legumes-images/fraise.jpg, price: 4,41, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ebks1'/><gsx:id>42</gsx:id><gsx:name>Fraise</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/fraise.jpg</gsx:img><gsx:price>4,41</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "42",
+  "title": "42",
+  "_links": [],
+  "name": "Fraise",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/fraise.jpg",
+  "price": "4,41",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e1qt2</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>43</title><content type='text'>name: Fraise des bois, img: http://www.fruits-legumes.org/fruits-legumes-images/fraise-des-bois.jpg, price: 6,85, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e1qt2'/><gsx:id>43</gsx:id><gsx:name>Fraise des bois</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/fraise-des-bois.jpg</gsx:img><gsx:price>6,85</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "43",
+  "title": "43",
+  "_links": [],
+  "name": "Fraise des bois",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/fraise-des-bois.jpg",
+  "price": "6,85",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e35dj</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>44</title><content type='text'>name: Framboise, img: http://www.fruits-legumes.org/fruits-legumes-images/framboise.jpg, price: 8,37, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e35dj'/><gsx:id>44</gsx:id><gsx:name>Framboise</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/framboise.jpg</gsx:img><gsx:price>8,37</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "44",
+  "title": "44",
+  "_links": [],
+  "name": "Framboise",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/framboise.jpg",
+  "price": "8,37",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e4jxw</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>45</title><content type='text'>name: Fruit de la passion, img: http://www.fruits-legumes.org/fruits-legumes-images/fruit-de-la-passion.jpg, price: 0,69, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e4jxw'/><gsx:id>45</gsx:id><gsx:name>Fruit de la passion</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/fruit-de-la-passion.jpg</gsx:img><gsx:price>0,69</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "45",
+  "title": "45",
+  "_links": [],
+  "name": "Fruit de la passion",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/fruit-de-la-passion.jpg",
+  "price": "0,69",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e5yid</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>46</title><content type='text'>name: Grenade, img: http://www.fruits-legumes.org/fruits-legumes-images/grenade.jpg, price: 5,92, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/e5yid'/><gsx:id>46</gsx:id><gsx:name>Grenade</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/grenade.jpg</gsx:img><gsx:price>5,92</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "46",
+  "title": "46",
+  "_links": [],
+  "name": "Grenade",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/grenade.jpg",
+  "price": "5,92",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eilm2</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>47</title><content type='text'>name: Groseille, img: http://www.fruits-legumes.org/fruits-legumes-images/groseille.jpg, price: 1,18, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eilm2'/><gsx:id>47</gsx:id><gsx:name>Groseille</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/groseille.jpg</gsx:img><gsx:price>1,18</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "47",
+  "title": "47",
+  "_links": [],
+  "name": "Groseille",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/groseille.jpg",
+  "price": "1,18",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ek06j</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>48</title><content type='text'>name: Groseille à maquereau, img: http://www.fruits-legumes.org/fruits-legumes-images/groseille-a-maquereau.jpg, price: 1,05, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ek06j'/><gsx:id>48</gsx:id><gsx:name>Groseille à maquereau</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/groseille-a-maquereau.jpg</gsx:img><gsx:price>1,05</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "48",
+  "title": "48",
+  "_links": [],
+  "name": "Groseille à maquereau",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/groseille-a-maquereau.jpg",
+  "price": "1,05",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eleqw</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>49</title><content type='text'>name: Haricot, img: http://www.fruits-legumes.org/fruits-legumes-images/haricot.jpg, price: 7,94, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eleqw'/><gsx:id>49</gsx:id><gsx:name>Haricot</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/haricot.jpg</gsx:img><gsx:price>7,94</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "49",
+  "title": "49",
+  "_links": [],
+  "name": "Haricot",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/haricot.jpg",
+  "price": "7,94",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/emtbd</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>50</title><content type='text'>name: Kaki, img: http://www.fruits-legumes.org/fruits-legumes-images/kaki.jpg, price: 5,62, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/emtbd'/><gsx:id>50</gsx:id><gsx:name>Kaki</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/kaki.jpg</gsx:img><gsx:price>5,62</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "50",
+  "title": "50",
+  "_links": [],
+  "name": "Kaki",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/kaki.jpg",
+  "price": "5,62",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eczce</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>51</title><content type='text'>name: Kiwi, img: http://www.fruits-legumes.org/fruits-legumes-images/kiwi.jpg, price: 5,83, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eczce'/><gsx:id>51</gsx:id><gsx:name>Kiwi</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/kiwi.jpg</gsx:img><gsx:price>5,83</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "51",
+  "title": "51",
+  "_links": [],
+  "name": "Kiwi",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/kiwi.jpg",
+  "price": "5,83",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eedwv</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>52</title><content type='text'>name: Kumquat, img: http://www.fruits-legumes.org/fruits-legumes-images/kumquat.jpg, price: 1,36, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eedwv'/><gsx:id>52</gsx:id><gsx:name>Kumquat</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/kumquat.jpg</gsx:img><gsx:price>1,36</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "52",
+  "title": "52",
+  "_links": [],
+  "name": "Kumquat",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/kumquat.jpg",
+  "price": "1,36",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/efsh8</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>53</title><content type='text'>name: Laitue romaine, img: http://www.fruits-legumes.org/fruits-legumes-images/laitue-romaine.jpg, price: 7,39, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/efsh8'/><gsx:id>53</gsx:id><gsx:name>Laitue romaine</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/laitue-romaine.jpg</gsx:img><gsx:price>7,39</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "53",
+  "title": "53",
+  "_links": [],
+  "name": "Laitue romaine",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/laitue-romaine.jpg",
+  "price": "7,39",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eh71p</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>54</title><content type='text'>name: Litchi, img: http://www.fruits-legumes.org/fruits-legumes-images/litchi.jpg, price: 8,64, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eh71p'/><gsx:id>54</gsx:id><gsx:name>Litchi</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/litchi.jpg</gsx:img><gsx:price>8,64</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "54",
+  "title": "54",
+  "_links": [],
+  "name": "Litchi",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/litchi.jpg",
+  "price": "8,64",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/etu5e</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>55</title><content type='text'>name: Mâche, img: http://www.fruits-legumes.org/fruits-legumes-images/mache.jpg, price: 1,58, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/etu5e'/><gsx:id>55</gsx:id><gsx:name>Mâche</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/mache.jpg</gsx:img><gsx:price>1,58</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "55",
+  "title": "55",
+  "_links": [],
+  "name": "Mâche",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/mache.jpg",
+  "price": "1,58",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ev8pv</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>56</title><content type='text'>name: Maïs, img: http://www.fruits-legumes.org/fruits-legumes-images/mais.jpg, price: 2,02, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ev8pv'/><gsx:id>56</gsx:id><gsx:name>Maïs</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/mais.jpg</gsx:img><gsx:price>2,02</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "56",
+  "title": "56",
+  "_links": [],
+  "name": "Maïs",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/mais.jpg",
+  "price": "2,02",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ewna8</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>57</title><content type='text'>name: Mandarine, img: http://www.fruits-legumes.org/fruits-legumes-images/mandarine.jpg, price: 7,13, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ewna8'/><gsx:id>57</gsx:id><gsx:name>Mandarine</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/mandarine.jpg</gsx:img><gsx:price>7,13</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "57",
+  "title": "57",
+  "_links": [],
+  "name": "Mandarine",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/mandarine.jpg",
+  "price": "7,13",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ey1up</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>58</title><content type='text'>name: Mangue, img: http://www.fruits-legumes.org/fruits-legumes-images/mangue.jpg, price: 6,9, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ey1up'/><gsx:id>58</gsx:id><gsx:name>Mangue</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/mangue.jpg</gsx:img><gsx:price>6,9</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "58",
+  "title": "58",
+  "_links": [],
+  "name": "Mangue",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/mangue.jpg",
+  "price": "6,9",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eo7vq</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>59</title><content type='text'>name: Marron, img: http://www.fruits-legumes.org/fruits-legumes-images/marron.jpg, price: 8,55, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/eo7vq'/><gsx:id>59</gsx:id><gsx:name>Marron</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/marron.jpg</gsx:img><gsx:price>8,55</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "59",
+  "title": "59",
+  "_links": [],
+  "name": "Marron",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/marron.jpg",
+  "price": "8,55",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/epmg7</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>60</title><content type='text'>name: Melon, img: http://www.fruits-legumes.org/fruits-legumes-images/melon.jpg, price: 5,7, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/epmg7'/><gsx:id>60</gsx:id><gsx:name>Melon</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/melon.jpg</gsx:img><gsx:price>5,7</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "60",
+  "title": "60",
+  "_links": [],
+  "name": "Melon",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/melon.jpg",
+  "price": "5,7",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/er10k</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>61</title><content type='text'>name: Mirabelle, img: http://www.fruits-legumes.org/fruits-legumes-images/mirabelle.jpg, price: 8,73, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/er10k'/><gsx:id>61</gsx:id><gsx:name>Mirabelle</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/mirabelle.jpg</gsx:img><gsx:price>8,73</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "61",
+  "title": "61",
+  "_links": [],
+  "name": "Mirabelle",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/mirabelle.jpg",
+  "price": "8,73",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/esfl1</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>62</title><content type='text'>name: Mûre, img: http://www.fruits-legumes.org/fruits-legumes-images/mure.jpg, price: 2,73, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/esfl1'/><gsx:id>62</gsx:id><gsx:name>Mûre</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/mure.jpg</gsx:img><gsx:price>2,73</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "62",
+  "title": "62",
+  "_links": [],
+  "name": "Mûre",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/mure.jpg",
+  "price": "2,73",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a59y2</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>63</title><content type='text'>name: Myrtille, img: http://www.fruits-legumes.org/fruits-legumes-images/myrtille.jpg, price: 4,01, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a59y2'/><gsx:id>63</gsx:id><gsx:name>Myrtille</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/myrtille.jpg</gsx:img><gsx:price>4,01</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "63",
+  "title": "63",
+  "_links": [],
+  "name": "Myrtille",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/myrtille.jpg",
+  "price": "4,01",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a6oij</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>64</title><content type='text'>name: Navet, img: http://www.fruits-legumes.org/fruits-legumes-images/navet.jpg, price: 1,97, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a6oij'/><gsx:id>64</gsx:id><gsx:name>Navet</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/navet.jpg</gsx:img><gsx:price>1,97</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "64",
+  "title": "64",
+  "_links": [],
+  "name": "Navet",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/navet.jpg",
+  "price": "1,97",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a832w</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>65</title><content type='text'>name: Nectarine, img: http://www.fruits-legumes.org/fruits-legumes-images/nectarine.jpg, price: 6,7, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a832w'/><gsx:id>65</gsx:id><gsx:name>Nectarine</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/nectarine.jpg</gsx:img><gsx:price>6,7</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "65",
+  "title": "65",
+  "_links": [],
+  "name": "Nectarine",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/nectarine.jpg",
+  "price": "6,7",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a9hnd</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>66</title><content type='text'>name: Noisette, img: http://www.fruits-legumes.org/fruits-legumes-images/noisette.jpg, price: 2,53, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a9hnd'/><gsx:id>66</gsx:id><gsx:name>Noisette</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/noisette.jpg</gsx:img><gsx:price>2,53</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "66",
+  "title": "66",
+  "_links": [],
+  "name": "Noisette",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/noisette.jpg",
+  "price": "2,53",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/9znoe</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>67</title><content type='text'>name: Noix, img: http://www.fruits-legumes.org/fruits-legumes-images/noix.jpg, price: 6,2, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/9znoe'/><gsx:id>67</gsx:id><gsx:name>Noix</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/noix.jpg</gsx:img><gsx:price>6,2</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "67",
+  "title": "67",
+  "_links": [],
+  "name": "Noix",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/noix.jpg",
+  "price": "6,2",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a128v</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>68</title><content type='text'>name: Oignon, img: http://www.fruits-legumes.org/fruits-legumes-images/oignon.jpg, price: 2,88, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a128v'/><gsx:id>68</gsx:id><gsx:name>Oignon</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/oignon.jpg</gsx:img><gsx:price>2,88</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "68",
+  "title": "68",
+  "_links": [],
+  "name": "Oignon",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/oignon.jpg",
+  "price": "2,88",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a2gt8</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>69</title><content type='text'>name: Orange, img: http://www.fruits-legumes.org/fruits-legumes-images/orange.jpg, price: 10,05, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a2gt8'/><gsx:id>69</gsx:id><gsx:name>Orange</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/orange.jpg</gsx:img><gsx:price>10,05</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "69",
+  "title": "69",
+  "_links": [],
+  "name": "Orange",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/orange.jpg",
+  "price": "10,05",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a3vdp</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>70</title><content type='text'>name: Orange sanguine, img: http://www.fruits-legumes.org/fruits-legumes-images/orange-sanguine.jpg, price: 2,34, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/a3vdp'/><gsx:id>70</gsx:id><gsx:name>Orange sanguine</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/orange-sanguine.jpg</gsx:img><gsx:price>2,34</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "70",
+  "title": "70",
+  "_links": [],
+  "name": "Orange sanguine",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/orange-sanguine.jpg",
+  "price": "2,34",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/agihe</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>71</title><content type='text'>name: Pamplemousse, img: http://www.fruits-legumes.org/fruits-legumes-images/pamplemousse.jpg, price: 2,94, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/agihe'/><gsx:id>71</gsx:id><gsx:name>Pamplemousse</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/pamplemousse.jpg</gsx:img><gsx:price>2,94</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "71",
+  "title": "71",
+  "_links": [],
+  "name": "Pamplemousse",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/pamplemousse.jpg",
+  "price": "2,94",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ahx1v</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>72</title><content type='text'>name: Panais, img: http://www.fruits-legumes.org/fruits-legumes-images/panais.jpg, price: 4,92, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ahx1v'/><gsx:id>72</gsx:id><gsx:name>Panais</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/panais.jpg</gsx:img><gsx:price>4,92</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "72",
+  "title": "72",
+  "_links": [],
+  "name": "Panais",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/panais.jpg",
+  "price": "4,92",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ajbm8</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>73</title><content type='text'>name: Papaye, img: http://www.fruits-legumes.org/fruits-legumes-images/papaye.jpg, price: 4,32, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ajbm8'/><gsx:id>73</gsx:id><gsx:name>Papaye</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/papaye.jpg</gsx:img><gsx:price>4,32</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "73",
+  "title": "73",
+  "_links": [],
+  "name": "Papaye",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/papaye.jpg",
+  "price": "4,32",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/akq6p</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>74</title><content type='text'>name: Pastèque, img: http://www.fruits-legumes.org/fruits-legumes-images/pasteque.jpg, price: 5,98, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/akq6p'/><gsx:id>74</gsx:id><gsx:name>Pastèque</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/pasteque.jpg</gsx:img><gsx:price>5,98</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "74",
+  "title": "74",
+  "_links": [],
+  "name": "Pastèque",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/pasteque.jpg",
+  "price": "5,98",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/aaw7q</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>75</title><content type='text'>name: Pâtisson, img: http://www.fruits-legumes.org/fruits-legumes-images/patisson.jpg, price: 7,83, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/aaw7q'/><gsx:id>75</gsx:id><gsx:name>Pâtisson</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/patisson.jpg</gsx:img><gsx:price>7,83</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "75",
+  "title": "75",
+  "_links": [],
+  "name": "Pâtisson",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/patisson.jpg",
+  "price": "7,83",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/acas7</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>76</title><content type='text'>name: Pêche, img: http://www.fruits-legumes.org/fruits-legumes-images/peche.jpg, price: 0,82, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/acas7'/><gsx:id>76</gsx:id><gsx:name>Pêche</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/peche.jpg</gsx:img><gsx:price>0,82</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "76",
+  "title": "76",
+  "_links": [],
+  "name": "Pêche",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/peche.jpg",
+  "price": "0,82",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/adpck</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>77</title><content type='text'>name: Petit oignon blanc, img: http://www.fruits-legumes.org/fruits-legumes-images/petit-oignon-blanc.jpg, price: 4,21, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/adpck'/><gsx:id>77</gsx:id><gsx:name>Petit oignon blanc</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/petit-oignon-blanc.jpg</gsx:img><gsx:price>4,21</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "77",
+  "title": "77",
+  "_links": [],
+  "name": "Petit oignon blanc",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/petit-oignon-blanc.jpg",
+  "price": "4,21",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/af3x1</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>78</title><content type='text'>name: Petit pois, img: http://www.fruits-legumes.org/fruits-legumes-images/petit-pois.jpg, price: 9,35, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/af3x1'/><gsx:id>78</gsx:id><gsx:name>Petit pois</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/petit-pois.jpg</gsx:img><gsx:price>9,35</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "78",
+  "title": "78",
+  "_links": [],
+  "name": "Petit pois",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/petit-pois.jpg",
+  "price": "9,35",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/arr0q</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>79</title><content type='text'>name: Poire, img: http://www.fruits-legumes.org/fruits-legumes-images/poire.jpg, price: 10,31, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/arr0q'/><gsx:id>79</gsx:id><gsx:name>Poire</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/poire.jpg</gsx:img><gsx:price>10,31</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "79",
+  "title": "79",
+  "_links": [],
+  "name": "Poire",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/poire.jpg",
+  "price": "10,31",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/at5l7</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>80</title><content type='text'>name: Poireau, img: http://www.fruits-legumes.org/fruits-legumes-images/poireau.jpg, price: 10,26, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/at5l7'/><gsx:id>80</gsx:id><gsx:name>Poireau</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/poireau.jpg</gsx:img><gsx:price>10,26</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "80",
+  "title": "80",
+  "_links": [],
+  "name": "Poireau",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/poireau.jpg",
+  "price": "10,26",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/auk5k</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>81</title><content type='text'>name: Pois mange-tout, img: http://www.fruits-legumes.org/fruits-legumes-images/pois-mange-tout.jpg, price: 4,57, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/auk5k'/><gsx:id>81</gsx:id><gsx:name>Pois mange-tout</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/pois-mange-tout.jpg</gsx:img><gsx:price>4,57</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "81",
+  "title": "81",
+  "_links": [],
+  "name": "Pois mange-tout",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/pois-mange-tout.jpg",
+  "price": "4,57",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/avyq1</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>82</title><content type='text'>name: Poivron, img: http://www.fruits-legumes.org/fruits-legumes-images/poivron.jpg, price: 3,06, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/avyq1'/><gsx:id>82</gsx:id><gsx:name>Poivron</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/poivron.jpg</gsx:img><gsx:price>3,06</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "82",
+  "title": "82",
+  "_links": [],
+  "name": "Poivron",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/poivron.jpg",
+  "price": "3,06",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/am4r2</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>83</title><content type='text'>name: Pomme, img: http://www.fruits-legumes.org/fruits-legumes-images/pomme.jpg, price: 10,42, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/am4r2'/><gsx:id>83</gsx:id><gsx:name>Pomme</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/pomme.jpg</gsx:img><gsx:price>10,42</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "83",
+  "title": "83",
+  "_links": [],
+  "name": "Pomme",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/pomme.jpg",
+  "price": "10,42",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/anjbj</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>84</title><content type='text'>name: Pomme de terre, img: http://www.fruits-legumes.org/fruits-legumes-images/pomme-de-terre.jpg, price: 1,76, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/anjbj'/><gsx:id>84</gsx:id><gsx:name>Pomme de terre</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/pomme-de-terre.jpg</gsx:img><gsx:price>1,76</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "84",
+  "title": "84",
+  "_links": [],
+  "name": "Pomme de terre",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/pomme-de-terre.jpg",
+  "price": "1,76",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/aoxvw</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>85</title><content type='text'>name: Potimarron, img: http://www.fruits-legumes.org/fruits-legumes-images/potimarron.jpg, price: 1,65, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/aoxvw'/><gsx:id>85</gsx:id><gsx:name>Potimarron</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/potimarron.jpg</gsx:img><gsx:price>1,65</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "85",
+  "title": "85",
+  "_links": [],
+  "name": "Potimarron",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/potimarron.jpg",
+  "price": "1,65",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/aqcgd</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>86</title><content type='text'>name: Potiron, img: http://www.fruits-legumes.org/fruits-legumes-images/potiron.jpg, price: 4,47, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/aqcgd'/><gsx:id>86</gsx:id><gsx:name>Potiron</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/potiron.jpg</gsx:img><gsx:price>4,47</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "86",
+  "title": "86",
+  "_links": [],
+  "name": "Potiron",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/potiron.jpg",
+  "price": "4,47",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b2zk2</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>87</title><content type='text'>name: Prune, img: http://www.fruits-legumes.org/fruits-legumes-images/prune.jpg, price: 4,77, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b2zk2'/><gsx:id>87</gsx:id><gsx:name>Prune</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/prune.jpg</gsx:img><gsx:price>4,77</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "87",
+  "title": "87",
+  "_links": [],
+  "name": "Prune",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/prune.jpg",
+  "price": "4,77",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b4e4j</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>88</title><content type='text'>name: Quetsche, img: http://www.fruits-legumes.org/fruits-legumes-images/quetsche.jpg, price: 6,31, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b4e4j'/><gsx:id>88</gsx:id><gsx:name>Quetsche</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/quetsche.jpg</gsx:img><gsx:price>6,31</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "88",
+  "title": "88",
+  "_links": [],
+  "name": "Quetsche",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/quetsche.jpg",
+  "price": "6,31",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b5sow</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>89</title><content type='text'>name: Radis, img: http://www.fruits-legumes.org/fruits-legumes-images/radis.jpg, price: 7,48, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b5sow'/><gsx:id>89</gsx:id><gsx:name>Radis</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/radis.jpg</gsx:img><gsx:price>7,48</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "89",
+  "title": "89",
+  "_links": [],
+  "name": "Radis",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/radis.jpg",
+  "price": "7,48",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b779d</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>90</title><content type='text'>name: Radis long, img: http://www.fruits-legumes.org/fruits-legumes-images/radislong.jpg, price: 7,18, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b779d'/><gsx:id>90</gsx:id><gsx:name>Radis long</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/radislong.jpg</gsx:img><gsx:price>7,18</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "90",
+  "title": "90",
+  "_links": [],
+  "name": "Radis long",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/radislong.jpg",
+  "price": "7,18",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/axdae</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>91</title><content type='text'>name: Raisin, img: http://www.fruits-legumes.org/fruits-legumes-images/raisin.jpg, price: 2,29, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/axdae'/><gsx:id>91</gsx:id><gsx:name>Raisin</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/raisin.jpg</gsx:img><gsx:price>2,29</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "91",
+  "title": "91",
+  "_links": [],
+  "name": "Raisin",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/raisin.jpg",
+  "price": "2,29",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ayruv</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>92</title><content type='text'>name: Reine-claude, img: http://www.fruits-legumes.org/fruits-legumes-images/reine-claude.jpg, price: 3,69, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/ayruv'/><gsx:id>92</gsx:id><gsx:name>Reine-claude</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/reine-claude.jpg</gsx:img><gsx:price>3,69</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "92",
+  "title": "92",
+  "_links": [],
+  "name": "Reine-claude",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/reine-claude.jpg",
+  "price": "3,69",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b06f8</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>93</title><content type='text'>name: Rhubarbe, img: http://www.fruits-legumes.org/fruits-legumes-images/rhubarbe.jpg, price: 6,38, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b06f8'/><gsx:id>93</gsx:id><gsx:name>Rhubarbe</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/rhubarbe.jpg</gsx:img><gsx:price>6,38</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "93",
+  "title": "93",
+  "_links": [],
+  "name": "Rhubarbe",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/rhubarbe.jpg",
+  "price": "6,38",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b1kzp</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>94</title><content type='text'>name: Salsifis, img: http://www.fruits-legumes.org/fruits-legumes-images/salsifis.jpg, price: 3,49, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/b1kzp'/><gsx:id>94</gsx:id><gsx:name>Salsifis</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/salsifis.jpg</gsx:img><gsx:price>3,49</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "94",
+  "title": "94",
+  "_links": [],
+  "name": "Salsifis",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/salsifis.jpg",
+  "price": "3,49",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/be856</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>95</title><content type='text'>name: Tomate, img: http://www.fruits-legumes.org/fruits-legumes-images/tomate.jpg, price: 7,06, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/be856'/><gsx:id>95</gsx:id><gsx:name>Tomate</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/tomate.jpg</gsx:img><gsx:price>7,06</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "95",
+  "title": "95",
+  "_links": [],
+  "name": "Tomate",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/tomate.jpg",
+  "price": "7,06",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/bfmpn</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>96</title><content type='text'>name: Tomate charnue, img: http://www.fruits-legumes.org/fruits-legumes-images/tomate-charnue.jpg, price: 3,13, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/bfmpn'/><gsx:id>96</gsx:id><gsx:name>Tomate charnue</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/tomate-charnue.jpg</gsx:img><gsx:price>3,13</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "96",
+  "title": "96",
+  "_links": [],
+  "name": "Tomate charnue",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/tomate-charnue.jpg",
+  "price": "3,13",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/bh1a0</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>97</title><content type='text'>name: Tomate Peretti, img: http://www.fruits-legumes.org/fruits-legumes-images/tomate-peretti.jpg, price: 9,78, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/bh1a0'/><gsx:id>97</gsx:id><gsx:name>Tomate Peretti</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/tomate-peretti.jpg</gsx:img><gsx:price>9,78</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "97",
+  "title": "97",
+  "_links": [],
+  "name": "Tomate Peretti",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/tomate-peretti.jpg",
+  "price": "9,78",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}, {
+  "_xml": "<entry><id>https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/bifuh</id><updated>2015-05-28T00:42:32.188Z</updated><category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/><title type='text'>98</title><content type='text'>name: Topinambour, img: http://www.fruits-legumes.org/fruits-legumes-images/topinambour.jpg, price: 5,04, description: Fruits et légumes, available: TRUE</content><link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/od6/public/values/bifuh'/><gsx:id>98</gsx:id><gsx:name>Topinambour</gsx:name><gsx:img>http://www.fruits-legumes.org/fruits-legumes-images/topinambour.jpg</gsx:img><gsx:price>5,04</gsx:price><gsx:description>Fruits et légumes</gsx:description><gsx:available>TRUE</gsx:available></entry>",
+  "id": "98",
+  "title": "98",
+  "_links": [],
+  "name": "Topinambour",
+  "img": "http://www.fruits-legumes.org/fruits-legumes-images/topinambour.jpg",
+  "price": "5,04",
+  "description": "Fruits et légumes",
+  "available": "TRUE"
+}]

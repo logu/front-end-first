@@ -5,6 +5,11 @@ var gulp = require('gulp');
 var $ = require('gulp-load-plugins')();
 var browserSync = require('browser-sync');
 var reload = browserSync.reload;
+var convert = require('gulp-convert');
+var gulpSheets = require('gulp-google-spreadsheets');
+var jeditor = require("gulp-json-editor");
+
+var spreadsheetId = '11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY';
 
 gulp.task('styles', function () {
   return gulp.src('app/styles/main.scss')
@@ -118,10 +123,28 @@ gulp.task('wiredep', function () {
     .pipe(gulp.dest('app'));
 });
 
+// data generation
+gulp.task('data', function(){
+  gulp.src(['app/data/csv/*.csv'])
+    .pipe(convert({
+      from: 'csv',
+      to: 'json'
+     }))
+    .pipe(gulp.dest('app/data/json/'));
+});
+
+gulp.task('fetch-data', function(){
+    gulpSheets(spreadsheetId)
+    .pipe(jeditor(function(json) {
+      return json.rows; 
+    }))
+    .pipe(gulp.dest('app/data/json/'))  
+});
+
 gulp.task('build', ['jshint', 'html', 'images', 'fonts', 'extras'], function () {
   return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: true}));
 });
 
-gulp.task('default', ['clean'], function () {
+gulp.task('default', ['clean', 'fetch-data'], function () {
   gulp.start('build');
 });

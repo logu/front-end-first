@@ -20,8 +20,9 @@ var kouma = kouma || {};
 	 * @return {[type]} [description]
 	 */
 	ProductsView.prototype.render = function() {
+		var data = this.data && this.data.constructor === Array ? {products:this.data} : this.data;
 
-		var html = kouma.TemplateFactory.get('products', this.data);
+		var html = kouma.TemplateFactory.get('products', data);
 		
 		var $html = $(html);
 
@@ -32,7 +33,7 @@ var kouma = kouma || {};
 		var self = this;
 
 		$html.each(function(index, item) {
-			$(item).find('a').data(self.data.products[index]);
+			$(item).find('a').data(data.products[index]);
 
 			$row.append(item);
 

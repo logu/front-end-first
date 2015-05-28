@@ -1,0 +1,100 @@
+id,name,img,price,description,available
+0,Abricot,http://www.fruits-legumes.org/fruits-legumes-images/abricot.jpg,"3,85",Fruits et légumes,TRUE
+1,Ail,http://www.fruits-legumes.org/fruits-legumes-images/ail.jpg,"0,58",Fruits et légumes,TRUE
+2,Airelle,http://www.fruits-legumes.org/fruits-legumes-images/airelle.jpg,"8,02",Fruits et légumes,TRUE
+3,Amande,http://www.fruits-legumes.org/fruits-legumes-images/amande.jpg,"5,52",Fruits et légumes,TRUE
+4,Ananas,http://www.fruits-legumes.org/fruits-legumes-images/ananas.jpg,"5,38",Fruits et légumes,TRUE
+5,Artichaut,http://www.fruits-legumes.org/fruits-legumes-images/artichaut.jpg,"8,48",Fruits et légumes,TRUE
+6,Asperge blanche,http://www.fruits-legumes.org/fruits-legumes-images/asperge-blanche.jpg,"9,54",Fruits et légumes,TRUE
+7,Asperge verte,http://www.fruits-legumes.org/fruits-legumes-images/asperge-verte.jpg,"7,76",Fruits et légumes,TRUE
+8,Aubergine,http://www.fruits-legumes.org/fruits-legumes-images/aubergine.jpg,"6,56",Fruits et légumes,TRUE
+9,Avocat,http://www.fruits-legumes.org/fruits-legumes-images/avocat.jpg,"8,12",Fruits et légumes,TRUE
+10,Banane,http://www.fruits-legumes.org/fruits-legumes-images/banane.jpg,"2,15",Fruits et légumes,TRUE
+11,Bette,http://www.fruits-legumes.org/fruits-legumes-images/bette.jpg,"6,53",Fruits et légumes,TRUE
+12,Betterave rouge,http://www.fruits-legumes.org/fruits-legumes-images/betterave-rouge.jpg,"9,45",Fruits et légumes,TRUE
+13,Brocoli,http://www.fruits-legumes.org/fruits-legumes-images/brocoli.jpg,"8,96",Fruits et légumes,TRUE
+14,Carotte,http://www.fruits-legumes.org/fruits-legumes-images/carotte.jpg,"10,18",Fruits et légumes,TRUE
+15,Cassis,http://www.fruits-legumes.org/fruits-legumes-images/cassis.jpg,"7,34",Fruits et légumes,TRUE
+16,Catalonia,http://www.fruits-legumes.org/fruits-legumes-images/catalonia.jpg,"9,84",Fruits et légumes,TRUE
+17,Céleri,http://www.fruits-legumes.org/fruits-legumes-images/celeri.jpg,"0,93",Fruits et légumes,TRUE
+18,Céleri branche,http://www.fruits-legumes.org/fruits-legumes-images/celeri-branche.jpg,"3,37",Fruits et légumes,TRUE
+19,Céleri rave,http://www.fruits-legumes.org/fruits-legumes-images/celeri-rave.jpg,"9,19",Fruits et légumes,TRUE
+20,Cerise,http://www.fruits-legumes.org/fruits-legumes-images/cerise.jpg,"7,63",Fruits et légumes,TRUE
+21,Chou blanc,http://www.fruits-legumes.org/fruits-legumes-images/chou-blanc.jpg,"3,81",Fruits et légumes,TRUE
+22,Chou de Bruxelles,http://www.fruits-legumes.org/fruits-legumes-images/chou-de-bruxelles.jpg,"8,84",Fruits et légumes,TRUE
+23,Chou frisé,http://www.fruits-legumes.org/fruits-legumes-images/chou-frise.jpg,"3,57",Fruits et légumes,TRUE
+24,Chou Romanesco,http://www.fruits-legumes.org/fruits-legumes-images/chou-romanesco.jpg,"1,25",Fruits et légumes,TRUE
+25,Chou rouge,http://www.fruits-legumes.org/fruits-legumes-images/chou-rouge.jpg,"9,15",Fruits et légumes,TRUE
+26,Chou-chinois,http://www.fruits-legumes.org/fruits-legumes-images/chou-chinois.jpg,"6,11",Fruits et légumes,TRUE
+27,Chou-fleur,http://www.fruits-legumes.org/fruits-legumes-images/chou-fleur.jpg,"4,07",Fruits et légumes,TRUE
+28,Chou-rave,http://www.fruits-legumes.org/fruits-legumes-images/chou-rave.jpg,"1,84",Fruits et légumes,TRUE
+29,Cima di Rapa,http://www.fruits-legumes.org/fruits-legumes-images/cima-di-rapa.jpg,"2,45",Fruits et légumes,TRUE
+30,Citron,http://www.fruits-legumes.org/fruits-legumes-images/citron.jpg,"3,29",Fruits et légumes,TRUE
+31,Citrouille,http://www.fruits-legumes.org/fruits-legumes-images/citrouille.jpg,"9,06",Fruits et légumes,TRUE
+32,Clémentine,http://www.fruits-legumes.org/fruits-legumes-images/clementine.jpg,"2,64",Fruits et légumes,TRUE
+33,Coing,http://www.fruits-legumes.org/fruits-legumes-images/coing.jpg,"9,68",Fruits et légumes,TRUE
+34,Concombre,http://www.fruits-legumes.org/fruits-legumes-images/concombre.jpg,"8,18",Fruits et légumes,TRUE
+35,Courge,http://www.fruits-legumes.org/fruits-legumes-images/courge.jpg,"1,46",Fruits et légumes,TRUE
+36,Courgette,http://www.fruits-legumes.org/fruits-legumes-images/courgette.jpg,"4,72",Fruits et légumes,TRUE
+37,Datte,http://www.fruits-legumes.org/fruits-legumes-images/datte.jpg,"5,22",Fruits et légumes,TRUE
+38,Endive,http://www.fruits-legumes.org/fruits-legumes-images/endive.jpg,"5,07",Fruits et légumes,TRUE
+39,Epinard,http://www.fruits-legumes.org/fruits-legumes-images/epinard.jpg,"5,35",Fruits et légumes,TRUE
+40,Fenouil,http://www.fruits-legumes.org/fruits-legumes-images/fenouil.jpg,"0,76",Fruits et légumes,TRUE
+41,Figue fraîche,http://www.fruits-legumes.org/fruits-legumes-images/figue-fraiche.jpg,"9,93",Fruits et légumes,TRUE
+42,Fraise,http://www.fruits-legumes.org/fruits-legumes-images/fraise.jpg,"4,41",Fruits et légumes,TRUE
+43,Fraise des bois,http://www.fruits-legumes.org/fruits-legumes-images/fraise-des-bois.jpg,"6,85",Fruits et légumes,TRUE
+44,Framboise,http://www.fruits-legumes.org/fruits-legumes-images/framboise.jpg,"8,37",Fruits et légumes,TRUE
+45,Fruit de la passion,http://www.fruits-legumes.org/fruits-legumes-images/fruit-de-la-passion.jpg,"0,69",Fruits et légumes,TRUE
+46,Grenade,http://www.fruits-legumes.org/fruits-legumes-images/grenade.jpg,"5,92",Fruits et légumes,TRUE
+47,Groseille,http://www.fruits-legumes.org/fruits-legumes-images/groseille.jpg,"1,18",Fruits et légumes,TRUE
+48,Groseille à maquereau,http://www.fruits-legumes.org/fruits-legumes-images/groseille-a-maquereau.jpg,"1,05",Fruits et légumes,TRUE
+49,Haricot,http://www.fruits-legumes.org/fruits-legumes-images/haricot.jpg,"7,94",Fruits et légumes,TRUE
+50,Kaki,http://www.fruits-legumes.org/fruits-legumes-images/kaki.jpg,"5,62",Fruits et légumes,TRUE
+51,Kiwi,http://www.fruits-legumes.org/fruits-legumes-images/kiwi.jpg,"5,83",Fruits et légumes,TRUE
+52,Kumquat,http://www.fruits-legumes.org/fruits-legumes-images/kumquat.jpg,"1,36",Fruits et légumes,TRUE
+53,Laitue romaine,http://www.fruits-legumes.org/fruits-legumes-images/laitue-romaine.jpg,"7,39",Fruits et légumes,TRUE
+54,Litchi,http://www.fruits-legumes.org/fruits-legumes-images/litchi.jpg,"8,64",Fruits et légumes,TRUE
+55,Mâche,http://www.fruits-legumes.org/fruits-legumes-images/mache.jpg,"1,58",Fruits et légumes,TRUE
+56,Maïs,http://www.fruits-legumes.org/fruits-legumes-images/mais.jpg,"2,02",Fruits et légumes,TRUE
+57,Mandarine,http://www.fruits-legumes.org/fruits-legumes-images/mandarine.jpg,"7,13",Fruits et légumes,TRUE
+58,Mangue,http://www.fruits-legumes.org/fruits-legumes-images/mangue.jpg,"6,9",Fruits et légumes,TRUE
+59,Marron,http://www.fruits-legumes.org/fruits-legumes-images/marron.jpg,"8,55",Fruits et légumes,TRUE
+60,Melon,http://www.fruits-legumes.org/fruits-legumes-images/melon.jpg,"5,7",Fruits et légumes,TRUE
+61,Mirabelle,http://www.fruits-legumes.org/fruits-legumes-images/mirabelle.jpg,"8,73",Fruits et légumes,TRUE
+62,Mûre,http://www.fruits-legumes.org/fruits-legumes-images/mure.jpg,"2,73",Fruits et légumes,TRUE
+63,Myrtille,http://www.fruits-legumes.org/fruits-legumes-images/myrtille.jpg,"4,01",Fruits et légumes,TRUE
+64,Navet,http://www.fruits-legumes.org/fruits-legumes-images/navet.jpg,"1,97",Fruits et légumes,TRUE
+65,Nectarine,http://www.fruits-legumes.org/fruits-legumes-images/nectarine.jpg,"6,7",Fruits et légumes,TRUE
+66,Noisette,http://www.fruits-legumes.org/fruits-legumes-images/noisette.jpg,"2,53",Fruits et légumes,TRUE
+67,Noix,http://www.fruits-legumes.org/fruits-legumes-images/noix.jpg,"6,2",Fruits et légumes,TRUE
+68,Oignon,http://www.fruits-legumes.org/fruits-legumes-images/oignon.jpg,"2,88",Fruits et légumes,TRUE
+69,Orange,http://www.fruits-legumes.org/fruits-legumes-images/orange.jpg,"10,05",Fruits et légumes,TRUE
+70,Orange sanguine,http://www.fruits-legumes.org/fruits-legumes-images/orange-sanguine.jpg,"2,34",Fruits et légumes,TRUE
+71,Pamplemousse,http://www.fruits-legumes.org/fruits-legumes-images/pamplemousse.jpg,"2,94",Fruits et légumes,TRUE
+72,Panais,http://www.fruits-legumes.org/fruits-legumes-images/panais.jpg,"4,92",Fruits et légumes,TRUE
+73,Papaye,http://www.fruits-legumes.org/fruits-legumes-images/papaye.jpg,"4,32",Fruits et légumes,TRUE
+74,Pastèque,http://www.fruits-legumes.org/fruits-legumes-images/pasteque.jpg,"5,98",Fruits et légumes,TRUE
+75,Pâtisson,http://www.fruits-legumes.org/fruits-legumes-images/patisson.jpg,"7,83",Fruits et légumes,TRUE
+76,Pêche,http://www.fruits-legumes.org/fruits-legumes-images/peche.jpg,"0,82",Fruits et légumes,TRUE
+77,Petit oignon blanc,http://www.fruits-legumes.org/fruits-legumes-images/petit-oignon-blanc.jpg,"4,21",Fruits et légumes,TRUE
+78,Petit pois,http://www.fruits-legumes.org/fruits-legumes-images/petit-pois.jpg,"9,35",Fruits et légumes,TRUE
+79,Poire,http://www.fruits-legumes.org/fruits-legumes-images/poire.jpg,"10,31",Fruits et légumes,TRUE
+80,Poireau,http://www.fruits-legumes.org/fruits-legumes-images/poireau.jpg,"10,26",Fruits et légumes,TRUE
+81,Pois mange-tout,http://www.fruits-legumes.org/fruits-legumes-images/pois-mange-tout.jpg,"4,57",Fruits et légumes,TRUE
+82,Poivron,http://www.fruits-legumes.org/fruits-legumes-images/poivron.jpg,"3,06",Fruits et légumes,TRUE
+83,Pomme,http://www.fruits-legumes.org/fruits-legumes-images/pomme.jpg,"10,42",Fruits et légumes,TRUE
+84,Pomme de terre,http://www.fruits-legumes.org/fruits-legumes-images/pomme-de-terre.jpg,"1,76",Fruits et légumes,TRUE
+85,Potimarron,http://www.fruits-legumes.org/fruits-legumes-images/potimarron.jpg,"1,65",Fruits et légumes,TRUE
+86,Potiron,http://www.fruits-legumes.org/fruits-legumes-images/potiron.jpg,"4,47",Fruits et légumes,TRUE
+87,Prune,http://www.fruits-legumes.org/fruits-legumes-images/prune.jpg,"4,77",Fruits et légumes,TRUE
+88,Quetsche,http://www.fruits-legumes.org/fruits-legumes-images/quetsche.jpg,"6,31",Fruits et légumes,TRUE
+89,Radis,http://www.fruits-legumes.org/fruits-legumes-images/radis.jpg,"7,48",Fruits et légumes,TRUE
+90,Radis long,http://www.fruits-legumes.org/fruits-legumes-images/radislong.jpg,"7,18",Fruits et légumes,TRUE
+91,Raisin,http://www.fruits-legumes.org/fruits-legumes-images/raisin.jpg,"2,29",Fruits et légumes,TRUE
+92,Reine-claude,http://www.fruits-legumes.org/fruits-legumes-images/reine-claude.jpg,"3,69",Fruits et légumes,TRUE
+93,Rhubarbe,http://www.fruits-legumes.org/fruits-legumes-images/rhubarbe.jpg,"6,38",Fruits et légumes,TRUE
+94,Salsifis,http://www.fruits-legumes.org/fruits-legumes-images/salsifis.jpg,"3,49",Fruits et légumes,TRUE
+95,Tomate,http://www.fruits-legumes.org/fruits-legumes-images/tomate.jpg,"7,06",Fruits et légumes,TRUE
+96,Tomate charnue,http://www.fruits-legumes.org/fruits-legumes-images/tomate-charnue.jpg,"3,13",Fruits et légumes,TRUE
+97,Tomate Peretti,http://www.fruits-legumes.org/fruits-legumes-images/tomate-peretti.jpg,"9,78",Fruits et légumes,TRUE
+98,Topinambour,http://www.fruits-legumes.org/fruits-legumes-images/topinambour.jpg,"5,04",Fruits et légumes,TRUE

@@ -11,7 +11,7 @@ var kouma = kouma || {};
 		this.getProducts = function(successCB, errorCB) {
 
 			$.ajax({
-					url: 'data/data.json',
+					url: 'data/json/fruits-et-legumes.json',
 					success: successCB,
 					error: errorCB
 				});
