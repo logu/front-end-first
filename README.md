@@ -117,14 +117,14 @@ Nous allons utilisé [Json-server](https://github.com/typicode/json-server) pour
 
 >	  {^_^} Hi!
 >
->	Loading database from app/data/json/fruits-et-legumes.json
+>	  Loading database from app/data/json/fruits-et-legumes.json
 >
 >	  http://localhost:3000/products
 >
->	You can now go to http://localhost:3000
+>	  You can now go to http://localhost:3000
 >
->	Enter s at any time to create a snapshot of the db
->	Watching app/data/json/fruits-et-legumes.json
+>	  Enter s at any time to create a snapshot of the db
+>	  Watching app/data/json/fruits-et-legumes.json
 
 ------------
 
