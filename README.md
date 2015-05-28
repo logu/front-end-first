@@ -45,13 +45,20 @@ Le 'front end first' donne la possibilité du découplage entre l'application et
 
 Cette repository a été créée pour illustrer une façon de développer en utilisant la méthode 'front end first'. Nous allons nous interroger sur la meilleure façon de développer notre front sans dépendre des API tout en impactant un minimum le code cible. Une stratégie pour simuler le backend et avoir des données bouchonnées.
 
+
+
 Pour suivre la démo je vous invite à cloner le projet :
 
     git clone https://github.com/logu/front-end-first.git
     git checkout tags/v0.0.1
 
 
+Getting Started
 
+    - Install dependencies: `npm install --global bower gulp`
+    - Run `gulp serve` to preview and watch for changes
+    - Run `bower install --save <package>` to install frontend dependencies
+    - Run `gulp` to build your webapp for production
 
 ####Comment créer des bouchons de données ? ####
 
@@ -87,12 +94,33 @@ https://docs.google.com/spreadsheets/d/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhm
 >     
 >     // data generation
 >     gulp.task('fetch-data', function(){
->         gulpSheets(spreadsheetId)
->         .pipe(jeditor(function(json) {
->           return json.rows; 
->         }))
->         .pipe(gulp.dest('app/data/json/'))  
->     });
+>	    gulpSheets(spreadsheetId)
+>	    .pipe(jeditor(function(json) {
+>	      var data = _.map(json.rows, function(product){
+>	        return _.extend({}, product, {id: parseInt(product.id)});
+>	      });
+>	      return {products: data}; 
+>	    }))
+>	    .pipe(gulp.dest('app/data/json/'))  
+>	  });
+         
 
 ####Comment simuler une API pour implémenter le CRUD ? ####
+
+Nous allons utilisé [Json-server](https://github.com/typicode/json-server) pour mettre en place l'api.
+
+    npm install -g json-server
+
+	json-server --watch app/data/json/fruits-et-legumes.json
+
+>	  {^_^} Hi!
+>
+>	Loading database from app/data/json/fruits-et-legumes.json
+>
+>	  http://localhost:3000/products
+>
+>	You can now go to http://localhost:3000
+>
+>	Enter s at any time to create a snapshot of the db
+>	Watching app/data/json/fruits-et-legumes.json
 

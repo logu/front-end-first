@@ -7,7 +7,8 @@ var browserSync = require('browser-sync');
 var reload = browserSync.reload;
 var convert = require('gulp-convert');
 var gulpSheets = require('gulp-google-spreadsheets');
-var jeditor = require("gulp-json-editor");
+var jeditor = require('gulp-json-editor');
+var _ = require('underscore');
 
 var spreadsheetId = '11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY';
 
@@ -136,7 +137,10 @@ gulp.task('data', function(){
 gulp.task('fetch-data', function(){
     gulpSheets(spreadsheetId)
     .pipe(jeditor(function(json) {
-      return json.rows; 
+      var data = _.map(json.rows, function(product){
+        return _.extend({}, product, {id: parseInt(product.id)});
+      });
+      return {products: data}; 
     }))
     .pipe(gulp.dest('app/data/json/'))  
 });
