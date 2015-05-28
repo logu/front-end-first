@@ -60,6 +60,8 @@ Getting Started
     - Run `bower install --save <package>` to install frontend dependencies
     - Run `gulp` to build your webapp for production
 
+On a une usine de developpement propulser pas Gulp
+
 ####Comment créer des bouchons de données ? ####
 
  - Données à partir d'[un fichier csv](https://docs.google.com/spreadsheets/d/11Qt8cUt8dh0hgmd21CoSi0rl9RDMvfBoQbQ-pEhmtgY/export?format=csv) :
@@ -124,3 +126,10 @@ Nous allons utilisé [Json-server](https://github.com/typicode/json-server) pour
 >	Enter s at any time to create a snapshot of the db
 >	Watching app/data/json/fruits-et-legumes.json
 
+------------
+
+D'autres solutions sont possible 
+
+[Faker.js](https://github.com/marak/Faker.js/)
+[Faker.js - implemené](https://scotch.io/tutorials/generate-fake-data-for-your-javascript-applications-using-faker)
+[chance.js](http://chancejs.com/)
