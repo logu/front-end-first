@@ -67,7 +67,7 @@ On a une usine de developpement classique propulsée par node js, Gulp et bower.
     <img height="157" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
   </a>
   <a href="https://nodejs.org/">
-    <img width="100" src="https://nodejs.org/images/logo.svg">
+    <img width="100" src="https://nodejs.org/images/logos/nodejs.png">
   </a>
   <a href="http://bower.io/">
     <img align="right" height="155" src="http://bower.io/img/bower-logo.png">
