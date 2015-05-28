@@ -60,7 +60,20 @@ Getting Started
     - Run `bower install --save <package>` to install frontend dependencies
     - Run `gulp` to build your webapp for production
 
-On a une usine de developpement propulser pas Gulp
+On a une usine de developpement classique propulsée par node js, Gulp et bower.
+
+<p align="center">
+  <a href="http://gulpjs.com">
+    <img height="157" width="14" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
+  </a>
+  <a href="https://nodejs.org/">
+    <img width="100" src="
+  https://camo.githubusercontent.com/6e90eb10f7005895c9ba8f8bcba0a3d1103e9ad8/68747470733a2f2f6e6f64656a732e6f72672f696d616765732f6c6f676f732f6e6f64656a732e706e67">
+  </a>
+  <a href="http://bower.io/">
+    <img align="right" height="155" src="http://bower.io/img/bower-logo.png">
+  </a>
+</p>
 
 ####Comment créer des bouchons de données ? ####
 
